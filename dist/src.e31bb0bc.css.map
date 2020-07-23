@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"src.e31bb0bc.css","sourceRoot":"../src","sourcesContent":["body {\n  background: black;\n}\n\ncanvas {\n  border: 1px solid white;\n}\n"]}
